@@ -55,9 +55,9 @@ python main.py
 
 This repository is a core pillar of a comprehensive Biotech Commercial Stack:
 
-1. **[Net-Guard-GTN-Optimizer](https://www.google.com/search?q=link):** Revenue integrity and rebate optimization.
+1. [**Net-Guard-GTN-Optimizer**](https://github.com/sannapa2016/Net-guard-gtn-optimizer): Revenue integrity and rebate optimization.
 2. **Referral-Sense-AI:** (This Repo) Physician targeting and referral mapping.
-3. **[Patient-Voice-NLP](https://www.google.com/search?q=link):** Patient unmet need and sentiment extraction.
+3. [**Patient-Voice-NLP**](https://github.com/sannapa2016/Patient-Voice-NLP): Patient unmet need and sentiment extraction.
 
 
 
