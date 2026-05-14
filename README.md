@@ -1,7 +1,12 @@
-The Strategic Problem: The Diagnostic Odyssey
-Rare disease patients often wait 5-7 years to receive an accurate diagnosis. This delay isn't just a clinical failure; it's a massive barrier to therapy adoption. Referral-sense-ai shifts the commercial strategy from "Reactive" (waiting for referrals) to "Predictive" (finding doctors before they even know they have a rare patient).
+The Strategic Problem:
+
+The Diagnostic Odyssey
+
+Rare disease patients often wait 5-7 years to receive an accurate diagnosis. This delay isn't just a clinical failure; 
+it's a massive barrier to therapy adoption. Referral-sense-ai shifts the commercial strategy from "Reactive" (waiting for referrals) to "Predictive" (finding doctors before they even know they have a rare patient).
 
  Core Engine Features
+ 
 1. Proxy Signal Detection
 The engine looks beyond primary diagnosis codes. It uses Feature Engineering to identify clusters of:
 
