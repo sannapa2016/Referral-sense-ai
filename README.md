@@ -66,4 +66,3 @@ This repository is a core pillar of a comprehensive Biotech Commercial Stack:
 
 `![Access Map](./docs/access_map.png)`
 
-**Would you like me to generate the "Master Portfolio" landing page now to link all three of these repos together?**
