@@ -36,8 +36,6 @@ Finding a patient is only half the battle. Our engine calculates the **Travel Bu
 * **Site Optimization:** Informs Clinical Operations where to open new treatment sites based on identified patient clusters.
 * **Earlier Intervention:** Reduces the "Diagnostic Odyssey" by identifying candidate patients significantly earlier in their journey.
 
----
-
 ##  Installation & Usage
 
 ```bash
@@ -53,8 +51,6 @@ python main.py
 
 ```
 
----
-
 ## Part of the Life Sciences Executive Suite
 
 This repository is a core pillar of a comprehensive Biotech Commercial Stack:
@@ -64,5 +60,4 @@ This repository is a core pillar of a comprehensive Biotech Commercial Stack:
 3. **[Patient-Voice-NLP](https://www.google.com/search?q=link):** Patient unmet need and sentiment extraction.
 
 
-`![Access Map](./docs/access_map.png)`
 
