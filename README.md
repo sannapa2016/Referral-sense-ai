@@ -7,7 +7,7 @@
 
 ##  The Strategic Problem: The Diagnostic Odyssey
 
-As shown in the initial project scope (**{12755DFA-EA0D-4610-A00A-A019382796F4}.png**), rare disease patients often wait **5-7 years** to receive an accurate diagnosis. This delay is a massive barrier to therapy adoption.
+As shown in the initial project scope, rare disease patients often wait **5-7 years** to receive an accurate diagnosis. This delay is a massive barrier to therapy adoption.
 
 This tool shifts the commercial strategy from **Reactive** (waiting for referrals) to **Predictive** (finding doctors before they even know they have a rare patient).
 
